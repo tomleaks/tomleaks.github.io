@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Minecraftia';
-    src: url("tomleaks/tomleaks.github.io/raw/master/Minecraftia.ttf") format('truetype');
+    src: url("/Minecraftia.ttf") format('truetype');
 }
 
 body {
