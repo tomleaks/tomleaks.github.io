@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Minecraftia';
+    src: url("Minecraftia.ttf") format('truetype');
+}
+
 body {
     background-color: lightblue;
 	font-family: Minecraftia;
